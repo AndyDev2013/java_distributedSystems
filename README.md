@@ -1,7 +1,7 @@
 # java_distributedSystems
 Distributed Systems project as part of my college work.
 
-1. Dependencies
+#Dependencies
 
 Import both of the project folders Client and Service
 
@@ -16,7 +16,7 @@ Libararies
 Make sure you have a Apache Tom Cat 8 Server
 Make sure the project is JRE 1.8 compliant
 
-2. Supplied Text for encryption
+#Supplied Text for encryption
 
 Decrypt this
 
@@ -26,9 +26,7 @@ To get this
 
 THISTEXTISPERFECTENGLISHTODEMONSTRATEWORKINGENCRYPTION
 
-3.
-
-Classes
+# Classes
 
 -----------------------------
 In Client there is 5 classes
@@ -58,6 +56,6 @@ Vigener - This class is taken from JH's original and with only minor changes to 
 
 VigenerBreaker - Interface needed to implement the RMI stuff uses important rmi.Remote packages et
 
-4. GitHub
+# GitHub
 
 https://github.com/AndyDev2013/java_distributedSystems
